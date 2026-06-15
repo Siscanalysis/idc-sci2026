@@ -1,0 +1,124 @@
+{
+  "NeuralNetwork": {
+    "Inputs": {
+      "InputsNumber": "6",
+      "Input": [
+        {
+          "Index": "1",
+          "Text": "long_pos_cob"
+        },
+        {
+          "Index": "2",
+          "Text": "prismatic_coef"
+        },
+        {
+          "Index": "3",
+          "Text": "length_displacement"
+        },
+        {
+          "Index": "4",
+          "Text": "beam_draught"
+        },
+        {
+          "Index": "5",
+          "Text": "length_beam"
+        },
+        {
+          "Index": "6",
+          "Text": "froude"
+        }
+      ]
+    },
+    "Layers": {
+      "LayersNumber": "5",
+      "Items": [
+        {
+          "Scaling": {
+            "Label": "",
+            "InputDimensions": "6",
+            "OutputDimensions": "6",
+            "Means": "-2.381818294525146 0.5641363859176636 4.788636684417725 3.93681812286377 3.206818103790283 0.2874999940395355",
+            "StandardDeviations": "1.513218879699707 0.02329002134501934 0.2530569732189178 0.5481929779052734 0.247998371720314 0.1009422242641449",
+            "Minimums": "-5 0.5299999713897705 4.340000152587891 2.809999942779541 2.730000019073486 0.125",
+            "Maximums": "0 0.6000000238418579 5.139999866485596 5.349999904632568 3.640000104904175 0.449999988079071",
+            "Scalers": "MeanStandardDeviation MeanStandardDeviation MeanStandardDeviation MeanStandardDeviation MeanStandardDeviation MeanStandardDeviation",
+            "MinRange": "-1",
+            "MaxRange": "1"
+          }
+        },
+        {
+          "Dense": {
+            "Label": "dense2d_layer_1",
+            "InputDimensions": "6",
+            "OutputDimensions": "17",
+            "Activation": "Tanh"
+          }
+        },
+        {
+          "Dense": {
+            "Label": "approximation_layer",
+            "InputDimensions": "17",
+            "OutputDimensions": "1",
+            "Activation": "Identity"
+          }
+        },
+        {
+          "Unscaling": {
+            "Label": "",
+            "InputDimensions": "1",
+            "OutputDimensions": "1",
+            "MinRange": "-1",
+            "MaxRange": "1",
+            "Neurons": [
+              {
+                "Descriptives": "0.01000022888183594 62.41999816894531 10.49535751342773 15.16049003601074",
+                "Scaler": "MeanStandardDeviation"
+              }
+            ]
+          }
+        },
+        {
+          "Bounding": {
+            "Label": "",
+            "InputDimensions": "1",
+            "OutputDimensions": "1",
+            "BoundingMethod": "NoBounding"
+          }
+        }
+      ],
+      "SourceLayers": {
+        "SourceLayer": [
+          {
+            "LayerIndex": "0",
+            "Text": "-1"
+          },
+          {
+            "LayerIndex": "1",
+            "Text": "0"
+          },
+          {
+            "LayerIndex": "2",
+            "Text": "1"
+          },
+          {
+            "LayerIndex": "3",
+            "Text": "2"
+          },
+          {
+            "LayerIndex": "4",
+            "Text": "3"
+          }
+        ]
+      }
+    },
+    "Outputs": {
+      "OutputsNumber": "1",
+      "Output": [
+        {
+          "Index": "1",
+          "Text": "resistance"
+        }
+      ]
+    }
+  }
+}

@@ -30,6 +30,8 @@ paper/
     Figuras/        figures, incl. the Spanish vector flow diagrams (TikZ)
 rerun/
   cpp/              IDC drivers (built against opennn_core.lib via CMake)
+  surrogates/       PINNED neural-network surrogates used by the paper
+                    (photo_wf3_nn.json, yacht_nn.json/.py, yacht.csv)
   pybaseline/       pymoo baselines (CMA-ES / DE / GA / PSO, NSGA-II/III, MOEA/D)
   nn_train/         surrogate-training inputs
   results/          raw per-seed CSV outputs and run logs
@@ -51,6 +53,22 @@ not tracked (see `.gitignore`).
    ```
 2. Run the single-objective case: `bash rerun/run_so_photo_wf3.sh`.
 3. Aggregate into tables and figures: `python rerun/aggregate.py`.
+
+The drivers read the **pinned** surrogates in `rerun/surrogates/`, not the
+external dataset library, so the reported numbers do not depend on later
+retraining of those surrogates.
+
+### A note on determinism
+
+- **Single-objective (`photo_wf3`)** is fully deterministic: `run_so_photo_wf3.sh`
+  reproduces `results/photo_wf3_idc_full.csv` bit-for-bit (the optimum is
+  identical across the 21 internal seeds to six significant figures).
+- **Multi-objective (`yacht`)** is **stochastic**: the front size and the
+  best-hypervolume seed vary from run to run, so a fresh `run_mo_yacht.sh` yields
+  a different HV / `|P|` / recommended point. The paper's MO numbers correspond
+  to the archived `results/yacht_mo_idc_fronts.csv`, which `aggregate.py`
+  re-aggregates to the exact table values (HV = 0.594, `|P|` = 272). Treat that
+  CSV as the artifact of record.
 
 ## Relationship to other work
 

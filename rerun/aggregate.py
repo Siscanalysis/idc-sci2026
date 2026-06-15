@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 
 RR  = Path(__file__).resolve().parent
 RES = RR / "results"
-FIG = RR.parent / "paper" / "Figuras"
+FIG = RR.parent / "paper" / "second_version" / "Figuras"
 TAB = RR / "tables"; TAB.mkdir(exist_ok=True)
 BD  = Path(r"C:/Users/Artelnics/Desktop/benchmark_datasets")
 
@@ -62,7 +62,7 @@ def aggregate_so():
 
 # ============================== MO yacht (IDC only, normalized HV) ==============================
 def aggregate_mo():
-    nn = load_nn(BD/"so_realdata/O_uci_regression/yacht_hydrodynamics/nn/yacht_nn.py")
+    nn = load_nn(RR/"surrogates/yacht_nn.py")   # pinned pre-retrain surrogate (paper-consistent)
     d = pd.read_csv(RES/"yacht_mo_idc_fronts.csv"); d = d[d.algorithm=="idc_mo_canonical"]
     # SELF-NORMALIZATION: each objective is normalized by the SELECTED run's own
     # objective range, so the front spans the unit box corner-to-corner. This is
@@ -70,7 +70,7 @@ def aggregate_mo():
     # knee). Run SELECTION is done first under a fixed shared box (min/max of the
     # full Delft dataset) so the choice is comparable across the 21 seeds; the
     # chosen front is then re-normalized to its own range for the figure/HV.
-    data = pd.read_csv(BD/"so_realdata/O_uci_regression/yacht_hydrodynamics/data/yacht.csv")
+    data = pd.read_csv(RR/"surrogates/yacht.csv")   # pinned measured data (box bounds)
     drlo, drhi = float(data["resistance"].min()), float(data["resistance"].max())
     dllo, dlhi = float(data["length_beam"].min()), float(data["length_beam"].max())
     def to_box(res, o2, lo, hi):           # 0 = best
