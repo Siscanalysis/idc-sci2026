@@ -64,7 +64,7 @@ implemented in the open-source library [OpenNN](https://github.com/Artelnics/ope
 ## Acknowledgements
 
 Funded by the European Union (Marie Skłodowska-Curie Grant Agreement
-no. 101169541, NEUTEN). Views and opinions expressed are however those of the
-authors only and do not necessarily reflect those of the European Union or the
+no. 101169541 — NEUTEN). Views and opinions expressed are however those of the
+author(s) only and do not necessarily reflect those of the European Union or the
 European Research Executive Agency (REA). Neither the European Union nor the
 granting authority can be held responsible for them.
