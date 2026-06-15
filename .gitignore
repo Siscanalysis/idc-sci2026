@@ -36,6 +36,9 @@ paper/**/_*.log
 Figuras/*.aux
 Figuras/*.log
 
+# --- Manuscript sources (kept out of the reproduction repo) ------------------
+paper/
+
 # --- Internal material, not for publication ---------------------------------
 reviews/
 bsm2/

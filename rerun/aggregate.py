@@ -13,7 +13,9 @@ import matplotlib.pyplot as plt
 
 RR  = Path(__file__).resolve().parent
 RES = RR / "results"
-FIG = RR.parent / "paper" / "second_version" / "Figuras"
+FIXED_SEED = 0   # report ONE specific seed coherently across SO and MO (no cherry-picking,
+                 # no averaging); multi-seed statistics are used only for robustness claims.
+FIG = RR / "figures"; FIG.mkdir(exist_ok=True)   # repo-local (the manuscript keeps its own copy)
 TAB = RR / "tables"; TAB.mkdir(exist_ok=True)
 BD  = Path(r"C:/Users/Artelnics/Desktop/benchmark_datasets")
 
@@ -40,8 +42,7 @@ def hv_min2d(front, ref=(1.0,1.0)):
 # ============================== SO photo_wf3 (full-data, single seed) ==============================
 def aggregate_so():
     df = pd.read_csv(RES/"photo_wf3_idc_full.csv")     # full-data surrogate, 21 IDC seeds
-    i = df["best_f"].idxmin()                           # selected run (best optimum found)
-    r = df.loc[i]
+    r = df[df["seed"]==FIXED_SEED].iloc[0]              # the single reported seed
     x = [r["x_0"], r["x_1"], r["x_2"], r["x_3"]]
     don, acc = x[0]+x[1], x[2]+x[3]                     # donor / acceptor totals
     lines = [r"\begin{tabular}{l c}", r"\hline",
@@ -76,14 +77,8 @@ def aggregate_mo():
     def to_box(res, o2, lo, hi):           # 0 = best
         return np.column_stack([np.clip((res-lo[0])/(hi[0]-lo[0]),0,1),
                                 np.clip((o2 -lo[1])/(hi[1]-lo[1]),0,1)])
-    # 1) select the best run under the fixed full-dataset box (comparable HV)
-    best = None
-    for seed, g in d.groupby("seed"):
-        X = g[[f"x_{i}" for i in range(6)]].to_numpy(float)
-        r = np.asarray(nn.calculate_batch_output(X),float).ravel()
-        fr = nd_min2d(to_box(r, X[:,4], (drlo,dllo), (drhi,dlhi))); hv = hv_min2d(fr)
-        if best is None or hv > best[1]: best = (seed, hv)
-    seed_sel = best[0]
+    # report the single fixed seed (coherent with the SO table; no cherry-picking)
+    seed_sel = FIXED_SEED
     g = d[d.seed==seed_sel]
     Xs = g[[f"x_{i}" for i in range(6)]].to_numpy(float)
     res_s = np.asarray(nn.calculate_batch_output(Xs), float).ravel()
