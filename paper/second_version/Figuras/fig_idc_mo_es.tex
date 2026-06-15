@@ -1,0 +1,61 @@
+% =============================================================================
+%  Diagrama de flujo IDC multiobjetivo (IDC-MO), en español, vectorial.
+%  Reemplaza a fig_idc_mo.jpg (inglés, con erratas). Compilar: pdflatex.
+%  Sin babel: con [spanish] los caracteres > y % se vuelven activos y rompen
+%  la sintaxis >= de TikZ y los % matemáticos.
+% =============================================================================
+\documentclass[border=6pt]{standalone}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{tikz}
+\usetikzlibrary{positioning,shapes.geometric,arrows.meta,calc,backgrounds,fit}
+
+\definecolor{idcblue}{RGB}{31,103,131}
+
+\begin{document}
+\begin{tikzpicture}[
+  font=\sffamily\small,
+  >={Stealth[length=3mm]},
+  box/.style   = {rectangle, rounded corners=2.5pt, draw=idcblue, fill=idcblue,
+                  text=white, align=center, minimum height=12mm, text width=26mm,
+                  inner sep=2pt, line width=0.6pt},
+  dec/.style   = {diamond, draw=idcblue, fill=idcblue, text=white, aspect=2.4,
+                  align=center, inner sep=1pt, text width=18mm, minimum height=11mm},
+  fl/.style    = {-{Stealth[length=2.6mm]}, idcblue, line width=1.3pt},
+  lab/.style   = {font=\sffamily\footnotesize, fill=white, inner sep=1.2pt},
+  title/.style = {draw=black, fill=white, rounded corners=0pt, font=\sffamily\bfseries\large,
+                  inner sep=4pt}
+]
+
+% --- Título ------------------------------------------------------------------
+\node[title] at (9.4,9.4) {IDC-MO: estrategia multiobjetivo};
+
+% --- Inicialización (caja amplia, dos filas legibles) -----------------------
+\node[box, text width=48mm, minimum height=15mm] (init) at (3.4,8.1)
+     {Inicialización del frente de\\ Pareto global\\ (una corrida tipo IDC-SO)};
+
+% --- Lazo (sentido horario) --------------------------------------------------
+\node[box] (gen)   at (9.8,7.4) {Generar\\ puntos factibles};
+\node[box] (coll)  at (13.9,5.6) {Recopilar todos\\ los candidatos};
+\node[box] (domi)  at (13.0,2.4) {Extraer puntos\\ dominantes};
+\node[box] (metr)  at (9.0,1.1) {Calcular\\ métricas de calidad};
+\node[dec] (stop)  at (5.0,2.4) {¿Parada?};
+\node[box] (setd)  at (5.2,5.6) {Fijar dominios\\ para cada punto};
+
+% --- Salida ------------------------------------------------------------------
+\node[box] (out)   at (1.8,1.0) {Frente de Pareto\\ sugerido};
+
+% --- Flujos del lazo ---------------------------------------------------------
+\draw[fl] (init.east) -| (gen.north);
+\draw[fl] (gen)  to[bend left=12] (coll);
+\draw[fl] (coll) -- (domi);
+\draw[fl] (domi) to[bend left=10] (metr);
+\draw[fl] (metr.west) -| (stop.south);
+\draw[fl] (stop.north) -- node[lab]{no} (setd.south);
+\draw[fl] (setd) to[bend left=14] (gen);
+
+% --- Flujo de salida ---------------------------------------------------------
+\draw[fl] (stop.west) -| node[lab,pos=0.25]{sí} (out.north);
+
+\end{tikzpicture}
+\end{document}

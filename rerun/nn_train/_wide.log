@@ -1,0 +1,8 @@
+Benchmark root: "C:/Users/Artelnics/Desktop/experiments/Papers/Simposio_CEA_2026/rerun/nn_train"
+Growing Neurons: [1, 50] step 3, 6 trials/size  optimizer=(default)  epochs=(default)
+
+==> photo_wf3_wide (csv: data.csv, 4 inputs, 1 outputs)
+    [OK] hidden=1  test_R2=0.1043  test_MSE=0.0052  (838.3578s)
+
+Summary written to: "C:/Users/Artelnics/Desktop/experiments/Papers/Simposio_CEA_2026/rerun/nn_train\\BASELINES.md"
+Done: 1 trained, 0 failed, 0 skipped.

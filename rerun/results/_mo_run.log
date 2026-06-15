@@ -1,0 +1,2286 @@
+=== yacht MO : IDC (froude=0.30) ===
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 75 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5484
+  - New Pareto front size: 185
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0380831 | Boundary Gap: 0.353554
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 16205
+  - New Pareto front size: 342
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0227757 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 31742
+  - New Pareto front size: 439
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0695314 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 43425
+  - New Pareto front size: 614
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0571309 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 61941
+  - New Pareto front size: 730
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0571183 | Boundary Gap: 0.353554
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=0 |PF|=730 t=3.2878s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 69 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5054
+  - New Pareto front size: 194
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0313484 | Boundary Gap: 0.353565
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 16927
+  - New Pareto front size: 343
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0102169 | Boundary Gap: 0.353555
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 32248
+  - New Pareto front size: 464
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0306376 | Boundary Gap: 0.353555
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 45736
+  - New Pareto front size: 607
+  - Internal Hole: 0.00564215 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 61520
+  - New Pareto front size: 701
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0287789 | Boundary Gap: 0.353554
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=1 |PF|=701 t=3.67511s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 73 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5286
+  - New Pareto front size: 192
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0242784 | Boundary Gap: 0.353582
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 16784
+  - New Pareto front size: 329
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0112594 | Boundary Gap: 0.353555
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 30764
+  - New Pareto front size: 460
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0114879 | Boundary Gap: 0.353555
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 45706
+  - New Pareto front size: 593
+  - Internal Hole: 0.0108915 | Boundary Gap: 0.353555
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 59995
+  - New Pareto front size: 724
+  - Internal Hole: 0.018205 | Boundary Gap: 0.353555
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=2 |PF|=724 t=3.6964s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 74 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5331
+  - New Pareto front size: 201
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0671082 | Boundary Gap: 0.353574
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 17163
+  - New Pareto front size: 322
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00872835 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 30074
+  - New Pareto front size: 444
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00591947 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 43623
+  - New Pareto front size: 579
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0180681 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 59365
+  - New Pareto front size: 690
+  - Internal Hole: 0.00740576 | Boundary Gap: 0.353554
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=3 |PF|=690 t=3.6397s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 76 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5499
+  - New Pareto front size: 204
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0187924 | Boundary Gap: 0.353562
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 17461
+  - New Pareto front size: 333
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0272565 | Boundary Gap: 0.353553
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 31033
+  - New Pareto front size: 467
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.027247 | Boundary Gap: 0.353553
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 45253
+  - New Pareto front size: 584
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.057513 | Boundary Gap: 0.353553
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 58763
+  - New Pareto front size: 730
+  - Internal Hole: 0.057513 | Boundary Gap: 0.353553
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=4 |PF|=730 t=3.90577s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 82 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5946
+  - New Pareto front size: 207
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0134164 | Boundary Gap: 0.353555
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 17875
+  - New Pareto front size: 328
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00935457 | Boundary Gap: 0.353555
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 30868
+  - New Pareto front size: 432
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0214292 | Boundary Gap: 0.353555
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 42725
+  - New Pareto front size: 542
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0225914 | Boundary Gap: 0.353555
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 55259
+  - New Pareto front size: 666
+  - Internal Hole: 0.00464016 | Boundary Gap: 0.353554
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=5 |PF|=666 t=3.31877s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 66 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 4700
+  - New Pareto front size: 178
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0204201 | Boundary Gap: 0.353562
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 15469
+  - New Pareto front size: 327
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0298136 | Boundary Gap: 0.353556
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 30796
+  - New Pareto front size: 466
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00633782 | Boundary Gap: 0.353555
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 45837
+  - New Pareto front size: 595
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00847599 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 60043
+  - New Pareto front size: 700
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00430992 | Boundary Gap: 0.353554
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=6 |PF|=700 t=3.554s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 74 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5368
+  - New Pareto front size: 195
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.047576 | Boundary Gap: 0.353555
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 16837
+  - New Pareto front size: 311
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0106218 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 28754
+  - New Pareto front size: 426
+  - Internal Hole: 0.0100415 | Boundary Gap: 0.353553
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 42169
+  - New Pareto front size: 575
+  - Internal Hole: 0.0178625 | Boundary Gap: 0.353553
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 59153
+  - New Pareto front size: 703
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00917554 | Boundary Gap: 0.353553
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=7 |PF|=703 t=3.45832s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 64 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 4652
+  - New Pareto front size: 191
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0148307 | Boundary Gap: 0.353555
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 16634
+  - New Pareto front size: 312
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0669324 | Boundary Gap: 0.353555
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 29355
+  - New Pareto front size: 437
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00994365 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 43085
+  - New Pareto front size: 565
+  - Internal Hole: 0.00546732 | Boundary Gap: 0.353553
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 56295
+  - New Pareto front size: 679
+  - Internal Hole: 0.0159246 | Boundary Gap: 0.353553
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=8 |PF|=679 t=3.75085s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 74 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5322
+  - New Pareto front size: 193
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0234791 | Boundary Gap: 0.353557
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 16641
+  - New Pareto front size: 319
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0125668 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 29858
+  - New Pareto front size: 464
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00872575 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 45422
+  - New Pareto front size: 591
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0102074 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 59726
+  - New Pareto front size: 693
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00564262 | Boundary Gap: 0.353554
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=9 |PF|=693 t=3.45965s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 63 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 4647
+  - New Pareto front size: 179
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0317489 | Boundary Gap: 0.353556
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 15178
+  - New Pareto front size: 316
+  - Internal Hole: 0.0399515 | Boundary Gap: 0.353556
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 29603
+  - New Pareto front size: 408
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0399476 | Boundary Gap: 0.353556
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 40584
+  - New Pareto front size: 569
+  - Internal Hole: 0.0070106 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 58499
+  - New Pareto front size: 688
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00474682 | Boundary Gap: 0.353554
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=10 |PF|=688 t=3.34958s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 76 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5574
+  - New Pareto front size: 179
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0340023 | Boundary Gap: 0.353556
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 15440
+  - New Pareto front size: 328
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0350791 | Boundary Gap: 0.353556
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 30435
+  - New Pareto front size: 455
+  - Internal Hole: 0.0350791 | Boundary Gap: 0.353556
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 43854
+  - New Pareto front size: 605
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0338466 | Boundary Gap: 0.353556
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 61575
+  - New Pareto front size: 722
+  - Internal Hole: 0.00461078 | Boundary Gap: 0.353556
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=11 |PF|=722 t=3.3935s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 72 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5225
+  - New Pareto front size: 196
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0493216 | Boundary Gap: 0.353556
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 16967
+  - New Pareto front size: 325
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0737959 | Boundary Gap: 0.353556
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 30118
+  - New Pareto front size: 446
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00838198 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 43685
+  - New Pareto front size: 579
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0107117 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 58763
+  - New Pareto front size: 743
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0107096 | Boundary Gap: 0.353554
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=12 |PF|=743 t=3.543s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 78 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5677
+  - New Pareto front size: 213
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0118292 | Boundary Gap: 0.353556
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 18068
+  - New Pareto front size: 363
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0710582 | Boundary Gap: 0.353556
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 33778
+  - New Pareto front size: 448
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0234449 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 44477
+  - New Pareto front size: 577
+  - Internal Hole: 0.0234449 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 59168
+  - New Pareto front size: 717
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0234424 | Boundary Gap: 0.353554
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=13 |PF|=717 t=3.76536s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 76 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5430
+  - New Pareto front size: 190
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0428552 | Boundary Gap: 0.353561
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 16433
+  - New Pareto front size: 323
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0147639 | Boundary Gap: 0.353561
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 30625
+  - New Pareto front size: 466
+  - Internal Hole: 0.006936 | Boundary Gap: 0.353555
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 46322
+  - New Pareto front size: 584
+  - Internal Hole: 0.0190377 | Boundary Gap: 0.353555
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 59192
+  - New Pareto front size: 725
+  - Internal Hole: 0.00402359 | Boundary Gap: 0.353553
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=14 |PF|=725 t=3.35525s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 76 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5558
+  - New Pareto front size: 186
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0383506 | Boundary Gap: 0.35357
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 16100
+  - New Pareto front size: 300
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0231256 | Boundary Gap: 0.353555
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 28232
+  - New Pareto front size: 462
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0128398 | Boundary Gap: 0.353555
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 44996
+  - New Pareto front size: 554
+  - Internal Hole: 0.0128398 | Boundary Gap: 0.353555
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 55527
+  - New Pareto front size: 724
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00494896 | Boundary Gap: 0.353553
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=15 |PF|=724 t=3.37894s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 71 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5181
+  - New Pareto front size: 187
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0219623 | Boundary Gap: 0.353558
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 16220
+  - New Pareto front size: 318
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0345631 | Boundary Gap: 0.353558
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 30063
+  - New Pareto front size: 443
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0316869 | Boundary Gap: 0.353557
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 44633
+  - New Pareto front size: 561
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00654811 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 56489
+  - New Pareto front size: 705
+  - Internal Hole: 0.00952671 | Boundary Gap: 0.353554
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=16 |PF|=705 t=3.59091s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 65 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 4752
+  - New Pareto front size: 188
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0284216 | Boundary Gap: 0.35356
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 16266
+  - New Pareto front size: 333
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.011617 | Boundary Gap: 0.353556
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 31104
+  - New Pareto front size: 464
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0100666 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 46474
+  - New Pareto front size: 553
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00851354 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 57416
+  - New Pareto front size: 719
+  - Internal Hole: 0.00802526 | Boundary Gap: 0.353554
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=17 |PF|=719 t=3.39112s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 67 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 4904
+  - New Pareto front size: 190
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0213239 | Boundary Gap: 0.353563
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 16650
+  - New Pareto front size: 324
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.030851 | Boundary Gap: 0.353555
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 30308
+  - New Pareto front size: 451
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0552631 | Boundary Gap: 0.353555
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 44370
+  - New Pareto front size: 571
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0552429 | Boundary Gap: 0.353555
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 57850
+  - New Pareto front size: 710
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0712377 | Boundary Gap: 0.353555
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=18 |PF|=710 t=3.60786s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 72 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5220
+  - New Pareto front size: 169
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0154924 | Boundary Gap: 0.353572
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 14678
+  - New Pareto front size: 300
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0125674 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 27973
+  - New Pareto front size: 448
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00720432 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 44041
+  - New Pareto front size: 590
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00599185 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 59676
+  - New Pareto front size: 711
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0191255 | Boundary Gap: 0.353554
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=19 |PF|=711 t=3.28083s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 80 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 5]
+  - Aggregated local Pareto candidates: 5843
+  - New Pareto front size: 197
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0157167 | Boundary Gap: 0.353586
+
+> [Iteration 2 / 5]
+  - Aggregated local Pareto candidates: 17262
+  - New Pareto front size: 308
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0137647 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 5]
+  - Aggregated local Pareto candidates: 29090
+  - New Pareto front size: 441
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0118256 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 5]
+  - Aggregated local Pareto candidates: 43940
+  - New Pareto front size: 567
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0313676 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 5]
+  - Aggregated local Pareto candidates: 57232
+  - New Pareto front size: 738
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0238574 | Boundary Gap: 0.353554
+
+> [Optimization Complete] Assembling final results...
+idc_mo_starter seed=20 |PF|=738 t=3.38901s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 97 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 10024
+  - New Pareto front size: 239
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0651715 | Boundary Gap: 0.353554
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 31347
+  - New Pareto front size: 454
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0179088 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 64638
+  - New Pareto front size: 628
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0685331 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 94040
+  - New Pareto front size: 772
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0131082 | Boundary Gap: 0.353553
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 120736
+  - New Pareto front size: 1011
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00418952 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 161737
+  - New Pareto front size: 1214
+  - Internal Hole: 0.0027692 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 197543
+  - New Pareto front size: 1452
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0156704 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 239121
+  - New Pareto front size: 1707
+  - Internal Hole: 0.0156704 | Boundary Gap: 0.353553
+> [Convergence] Quality metrics stabilized. Stopping at iteration 8
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=0 |PF|=1707 t=89.6928s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 101 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 10480
+  - New Pareto front size: 260
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0329602 | Boundary Gap: 0.353558
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 33964
+  - New Pareto front size: 444
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0346266 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 63400
+  - New Pareto front size: 606
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0258788 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 89929
+  - New Pareto front size: 811
+  - Internal Hole: 0.0258788 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 124558
+  - New Pareto front size: 953
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00326155 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 150744
+  - New Pareto front size: 1189
+  - Internal Hole: 0.0069026 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 192651
+  - New Pareto front size: 1444
+  - Internal Hole: 0.00238339 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 238203
+  - New Pareto front size: 1675
+  - Internal Hole: 0.00338941 | Boundary Gap: 0.353553
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 281177
+  - New Pareto front size: 2041
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00384847 | Boundary Gap: 0.353553
+
+> [Iteration 10 / 20]
+  - Aggregated local Pareto candidates: 346308
+  - New Pareto front size: 2405
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00305898 | Boundary Gap: 0.353553
+
+> [Iteration 11 / 20]
+  - Aggregated local Pareto candidates: 416939
+  - New Pareto front size: 2816
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00565902 | Boundary Gap: 0.353553
+
+> [Iteration 12 / 20]
+  - Aggregated local Pareto candidates: 490984
+  - New Pareto front size: 3382
+  - Internal Hole: 0.00142874 | Boundary Gap: 0.353553
+
+> [Iteration 13 / 20]
+  - Aggregated local Pareto candidates: 594897
+  - New Pareto front size: 3965
+  - Internal Hole: 0.00180721 | Boundary Gap: 0.353553
+
+> [Iteration 14 / 20]
+  - Aggregated local Pareto candidates: 704750
+  - New Pareto front size: 4741
+  - Internal Hole: 0.00222527 | Boundary Gap: 0.353553
+
+> [Iteration 15 / 20]
+  - Aggregated local Pareto candidates: 845589
+  - New Pareto front size: 5630
+> [Pareto cap] Front reached 5630 points (cap=5000). Stopping at iteration 15.
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=1 |PF|=5630 t=613.006s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 93 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 9697
+  - New Pareto front size: 252
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0438759 | Boundary Gap: 0.353554
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 32607
+  - New Pareto front size: 478
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0200604 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 68299
+  - New Pareto front size: 629
+  - Internal Hole: 0.039517 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 94386
+  - New Pareto front size: 800
+  - Internal Hole: 0.00843881 | Boundary Gap: 0.353553
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 123863
+  - New Pareto front size: 1004
+  - Internal Hole: 0.00448299 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 158417
+  - New Pareto front size: 1208
+  - Internal Hole: 0.00448299 | Boundary Gap: 0.353553
+> [Convergence] Quality metrics stabilized. Stopping at iteration 6
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=2 |PF|=1208 t=38.16s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 91 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 9433
+  - New Pareto front size: 235
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0135151 | Boundary Gap: 0.353554
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 30796
+  - New Pareto front size: 459
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00732377 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 65306
+  - New Pareto front size: 608
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00773648 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 91366
+  - New Pareto front size: 777
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0125663 | Boundary Gap: 0.353553
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 121224
+  - New Pareto front size: 964
+  - Internal Hole: 0.0167051 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 153451
+  - New Pareto front size: 1180
+  - Internal Hole: 0.0118909 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 191267
+  - New Pareto front size: 1364
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0118901 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 222289
+  - New Pareto front size: 1669
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00434416 | Boundary Gap: 0.353553
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 276878
+  - New Pareto front size: 2086
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00434332 | Boundary Gap: 0.353553
+
+> [Iteration 10 / 20]
+  - Aggregated local Pareto candidates: 352141
+  - New Pareto front size: 2451
+  - Internal Hole: 0.00155612 | Boundary Gap: 0.353553
+
+> [Iteration 11 / 20]
+  - Aggregated local Pareto candidates: 420507
+  - New Pareto front size: 2876
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00372612 | Boundary Gap: 0.353553
+
+> [Iteration 12 / 20]
+  - Aggregated local Pareto candidates: 501729
+  - New Pareto front size: 3342
+  - Internal Hole: 0.00372612 | Boundary Gap: 0.353553
+> [Convergence] Quality metrics stabilized. Stopping at iteration 12
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=3 |PF|=3342 t=225.564s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 105 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 11028
+  - New Pareto front size: 253
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0902213 | Boundary Gap: 0.353554
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 33099
+  - New Pareto front size: 502
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0464838 | Boundary Gap: 0.353553
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 71737
+  - New Pareto front size: 679
+  - Internal Hole: 0.0464838 | Boundary Gap: 0.353553
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 101621
+  - New Pareto front size: 828
+  - Internal Hole: 0.0194393 | Boundary Gap: 0.353553
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 126825
+  - New Pareto front size: 1011
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0194355 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 161168
+  - New Pareto front size: 1210
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0194318 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 197257
+  - New Pareto front size: 1439
+  - Internal Hole: 0.0194318 | Boundary Gap: 0.353553
+> [Convergence] Quality metrics stabilized. Stopping at iteration 7
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=4 |PF|=1439 t=55.9383s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 97 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 10295
+  - New Pareto front size: 256
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0325998 | Boundary Gap: 0.353555
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 33449
+  - New Pareto front size: 465
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0201273 | Boundary Gap: 0.353555
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 65931
+  - New Pareto front size: 627
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0097143 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 93159
+  - New Pareto front size: 842
+  - Internal Hole: 0.00865292 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 130994
+  - New Pareto front size: 996
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00403168 | Boundary Gap: 0.353554
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 158026
+  - New Pareto front size: 1160
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00434579 | Boundary Gap: 0.353554
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 187788
+  - New Pareto front size: 1417
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00958398 | Boundary Gap: 0.353554
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 234522
+  - New Pareto front size: 1699
+  - Internal Hole: 0.00204914 | Boundary Gap: 0.353553
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 283253
+  - New Pareto front size: 2028
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00276079 | Boundary Gap: 0.353553
+
+> [Iteration 10 / 20]
+  - Aggregated local Pareto candidates: 342935
+  - New Pareto front size: 2423
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00837631 | Boundary Gap: 0.353553
+
+> [Iteration 11 / 20]
+  - Aggregated local Pareto candidates: 412642
+  - New Pareto front size: 2887
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00837572 | Boundary Gap: 0.353553
+
+> [Iteration 12 / 20]
+  - Aggregated local Pareto candidates: 501700
+  - New Pareto front size: 3372
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00667897 | Boundary Gap: 0.353553
+
+> [Iteration 13 / 20]
+  - Aggregated local Pareto candidates: 590985
+  - New Pareto front size: 3984
+  - Internal Hole: 0.00120772 | Boundary Gap: 0.353553
+
+> [Iteration 14 / 20]
+  - Aggregated local Pareto candidates: 698784
+  - New Pareto front size: 4804
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00100324 | Boundary Gap: 0.353553
+
+> [Iteration 15 / 20]
+  - Aggregated local Pareto candidates: 854780
+  - New Pareto front size: 5594
+> [Pareto cap] Front reached 5594 points (cap=5000). Stopping at iteration 15.
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=5 |PF|=5594 t=502.092s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 100 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 10378
+  - New Pareto front size: 237
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0440781 | Boundary Gap: 0.353556
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 30786
+  - New Pareto front size: 454
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0111137 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 64825
+  - New Pareto front size: 646
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00792781 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 97487
+  - New Pareto front size: 808
+  - Internal Hole: 0.0206412 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 126916
+  - New Pareto front size: 998
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0161797 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 160759
+  - New Pareto front size: 1202
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00528049 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 196409
+  - New Pareto front size: 1466
+  - Internal Hole: 0.00455156 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 244770
+  - New Pareto front size: 1681
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0085199 | Boundary Gap: 0.353553
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 282950
+  - New Pareto front size: 2018
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0105005 | Boundary Gap: 0.353553
+
+> [Iteration 10 / 20]
+  - Aggregated local Pareto candidates: 341848
+  - New Pareto front size: 2325
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00225414 | Boundary Gap: 0.353553
+
+> [Iteration 11 / 20]
+  - Aggregated local Pareto candidates: 399533
+  - New Pareto front size: 2810
+  - Internal Hole: 0.00669418 | Boundary Gap: 0.353553
+
+> [Iteration 12 / 20]
+  - Aggregated local Pareto candidates: 488991
+  - New Pareto front size: 3437
+  - Internal Hole: 0.00669418 | Boundary Gap: 0.353553
+> [Convergence] Quality metrics stabilized. Stopping at iteration 12
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=6 |PF|=3437 t=223.015s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 105 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 10873
+  - New Pareto front size: 261
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00933098 | Boundary Gap: 0.353554
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 34559
+  - New Pareto front size: 497
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00932798 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 71681
+  - New Pareto front size: 645
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00494558 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 98044
+  - New Pareto front size: 838
+  - Internal Hole: 0.00446514 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 131237
+  - New Pareto front size: 1000
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00885552 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 158865
+  - New Pareto front size: 1167
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00310014 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 190644
+  - New Pareto front size: 1376
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00276419 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 226704
+  - New Pareto front size: 1695
+  - Internal Hole: 0.00215859 | Boundary Gap: 0.353553
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 281423
+  - New Pareto front size: 2005
+  - Internal Hole: 0.00521618 | Boundary Gap: 0.353553
+
+> [Iteration 10 / 20]
+  - Aggregated local Pareto candidates: 336925
+  - New Pareto front size: 2364
+  - Internal Hole: 0.00477022 | Boundary Gap: 0.353553
+
+> [Iteration 11 / 20]
+  - Aggregated local Pareto candidates: 406977
+  - New Pareto front size: 2828
+  - Internal Hole: 0.00477022 | Boundary Gap: 0.353553
+> [Convergence] Quality metrics stabilized. Stopping at iteration 11
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=7 |PF|=2828 t=168.315s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 118 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 12231
+  - New Pareto front size: 255
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.019478 | Boundary Gap: 0.353555
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 33560
+  - New Pareto front size: 452
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0384738 | Boundary Gap: 0.353555
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 63664
+  - New Pareto front size: 627
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00486669 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 94628
+  - New Pareto front size: 836
+  - Internal Hole: 0.00412548 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 128020
+  - New Pareto front size: 1000
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00287775 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 157465
+  - New Pareto front size: 1207
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00259399 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 195164
+  - New Pareto front size: 1430
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00285119 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 235106
+  - New Pareto front size: 1656
+  - Internal Hole: 0.00379271 | Boundary Gap: 0.353553
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 278868
+  - New Pareto front size: 1932
+  - Internal Hole: 0.00379271 | Boundary Gap: 0.353553
+> [Convergence] Quality metrics stabilized. Stopping at iteration 9
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=8 |PF|=1932 t=95.8153s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 102 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 10651
+  - New Pareto front size: 235
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.021906 | Boundary Gap: 0.353554
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 30845
+  - New Pareto front size: 461
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0372677 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 64925
+  - New Pareto front size: 656
+  - Internal Hole: 0.00549812 | Boundary Gap: 0.353553
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 98381
+  - New Pareto front size: 826
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00507914 | Boundary Gap: 0.353553
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 127300
+  - New Pareto front size: 1004
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00460964 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 158895
+  - New Pareto front size: 1176
+  - Internal Hole: 0.015156 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 189811
+  - New Pareto front size: 1409
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0312505 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 231817
+  - New Pareto front size: 1670
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0312469 | Boundary Gap: 0.353553
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 279114
+  - New Pareto front size: 2006
+  - Internal Hole: 0.0312469 | Boundary Gap: 0.353553
+> [Convergence] Quality metrics stabilized. Stopping at iteration 9
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=9 |PF|=2006 t=86.6877s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 104 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 10949
+  - New Pareto front size: 244
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.013214 | Boundary Gap: 0.353555
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 32296
+  - New Pareto front size: 470
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0101119 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 67576
+  - New Pareto front size: 646
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00597301 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 96677
+  - New Pareto front size: 810
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00819474 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 124724
+  - New Pareto front size: 1020
+  - Internal Hole: 0.00576743 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 162480
+  - New Pareto front size: 1213
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.003123 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 194905
+  - New Pareto front size: 1402
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00250629 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 230162
+  - New Pareto front size: 1700
+  - Internal Hole: 0.00204054 | Boundary Gap: 0.353553
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 285293
+  - New Pareto front size: 2004
+  - Internal Hole: 0.00182344 | Boundary Gap: 0.353553
+
+> [Iteration 10 / 20]
+  - Aggregated local Pareto candidates: 338008
+  - New Pareto front size: 2397
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00431862 | Boundary Gap: 0.353553
+
+> [Iteration 11 / 20]
+  - Aggregated local Pareto candidates: 413512
+  - New Pareto front size: 2811
+  - Internal Hole: 0.00188363 | Boundary Gap: 0.353553
+
+> [Iteration 12 / 20]
+  - Aggregated local Pareto candidates: 490919
+  - New Pareto front size: 3385
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00160532 | Boundary Gap: 0.353553
+
+> [Iteration 13 / 20]
+  - Aggregated local Pareto candidates: 596314
+  - New Pareto front size: 4017
+  - Internal Hole: 0.00158519 | Boundary Gap: 0.353553
+
+> [Iteration 14 / 20]
+  - Aggregated local Pareto candidates: 713226
+  - New Pareto front size: 4665
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00185084 | Boundary Gap: 0.353553
+
+> [Iteration 15 / 20]
+  - Aggregated local Pareto candidates: 826735
+  - New Pareto front size: 5640
+> [Pareto cap] Front reached 5640 points (cap=5000). Stopping at iteration 15.
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=10 |PF|=5640 t=432.816s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 115 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 12023
+  - New Pareto front size: 278
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0143366 | Boundary Gap: 0.353556
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 36329
+  - New Pareto front size: 466
+  - Internal Hole: 0.00704995 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 66730
+  - New Pareto front size: 632
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0124719 | Boundary Gap: 0.353553
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 95972
+  - New Pareto front size: 800
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00644543 | Boundary Gap: 0.353553
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 124357
+  - New Pareto front size: 938
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.025241 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 148477
+  - New Pareto front size: 1210
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0252374 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 195507
+  - New Pareto front size: 1408
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0252345 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 230677
+  - New Pareto front size: 1659
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0252337 | Boundary Gap: 0.353553
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 276391
+  - New Pareto front size: 2009
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0342377 | Boundary Gap: 0.353553
+
+> [Iteration 10 / 20]
+  - Aggregated local Pareto candidates: 342382
+  - New Pareto front size: 2392
+  - Internal Hole: 0.001649 | Boundary Gap: 0.353553
+
+> [Iteration 11 / 20]
+  - Aggregated local Pareto candidates: 414578
+  - New Pareto front size: 2895
+  - Internal Hole: 0.00204126 | Boundary Gap: 0.353553
+
+> [Iteration 12 / 20]
+  - Aggregated local Pareto candidates: 505172
+  - New Pareto front size: 3346
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00568371 | Boundary Gap: 0.353553
+
+> [Iteration 13 / 20]
+  - Aggregated local Pareto candidates: 588553
+  - New Pareto front size: 3905
+  - Internal Hole: 0.00411025 | Boundary Gap: 0.353553
+
+> [Iteration 14 / 20]
+  - Aggregated local Pareto candidates: 690235
+  - New Pareto front size: 4690
+  - Internal Hole: 0.000804202 | Boundary Gap: 0.353553
+
+> [Iteration 15 / 20]
+  - Aggregated local Pareto candidates: 827992
+  - New Pareto front size: 5522
+> [Pareto cap] Front reached 5522 points (cap=5000). Stopping at iteration 15.
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=11 |PF|=5522 t=428.184s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 104 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 10886
+  - New Pareto front size: 252
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0887775 | Boundary Gap: 0.353556
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 32427
+  - New Pareto front size: 452
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0136265 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 63320
+  - New Pareto front size: 661
+  - Internal Hole: 0.012258 | Boundary Gap: 0.353553
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 97944
+  - New Pareto front size: 773
+  - Internal Hole: 0.0125276 | Boundary Gap: 0.353553
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 118361
+  - New Pareto front size: 981
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0109834 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 154607
+  - New Pareto front size: 1179
+  - Internal Hole: 0.0109834 | Boundary Gap: 0.353553
+> [Convergence] Quality metrics stabilized. Stopping at iteration 6
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=12 |PF|=1179 t=30.2658s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 115 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 11980
+  - New Pareto front size: 251
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0130191 | Boundary Gap: 0.353554
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 32885
+  - New Pareto front size: 461
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0339654 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 65667
+  - New Pareto front size: 631
+  - Internal Hole: 0.0507005 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 95244
+  - New Pareto front size: 812
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0703058 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 125788
+  - New Pareto front size: 1007
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00602498 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 160621
+  - New Pareto front size: 1208
+  - Internal Hole: 0.00930434 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 195220
+  - New Pareto front size: 1421
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00930202 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 233107
+  - New Pareto front size: 1679
+  - Internal Hole: 0.00930202 | Boundary Gap: 0.353553
+> [Convergence] Quality metrics stabilized. Stopping at iteration 8
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=13 |PF|=1679 t=61.4822s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 103 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 10756
+  - New Pareto front size: 271
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0761189 | Boundary Gap: 0.353555
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 35216
+  - New Pareto front size: 464
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0222153 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 66227
+  - New Pareto front size: 617
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00549296 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 92169
+  - New Pareto front size: 818
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0156071 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 126756
+  - New Pareto front size: 995
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00295172 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 157168
+  - New Pareto front size: 1186
+  - Internal Hole: 0.00273723 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 190956
+  - New Pareto front size: 1373
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00288469 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 227019
+  - New Pareto front size: 1672
+  - Internal Hole: 0.00229787 | Boundary Gap: 0.353553
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 280791
+  - New Pareto front size: 2032
+  - Internal Hole: 0.0111499 | Boundary Gap: 0.353553
+
+> [Iteration 10 / 20]
+  - Aggregated local Pareto candidates: 346796
+  - New Pareto front size: 2393
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0051769 | Boundary Gap: 0.353553
+
+> [Iteration 11 / 20]
+  - Aggregated local Pareto candidates: 411116
+  - New Pareto front size: 2806
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00517669 | Boundary Gap: 0.353553
+
+> [Iteration 12 / 20]
+  - Aggregated local Pareto candidates: 489653
+  - New Pareto front size: 3304
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00185425 | Boundary Gap: 0.353553
+
+> [Iteration 13 / 20]
+  - Aggregated local Pareto candidates: 578510
+  - New Pareto front size: 3876
+  - Internal Hole: 0.00114219 | Boundary Gap: 0.353553
+
+> [Iteration 14 / 20]
+  - Aggregated local Pareto candidates: 686371
+  - New Pareto front size: 4640
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.000926894 | Boundary Gap: 0.353553
+
+> [Iteration 15 / 20]
+  - Aggregated local Pareto candidates: 827162
+  - New Pareto front size: 5495
+> [Pareto cap] Front reached 5495 points (cap=5000). Stopping at iteration 15.
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=14 |PF|=5495 t=424.698s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 95 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 10002
+  - New Pareto front size: 263
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0541816 | Boundary Gap: 0.353554
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 34293
+  - New Pareto front size: 500
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0892006 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 71300
+  - New Pareto front size: 663
+  - Internal Hole: 0.00620185 | Boundary Gap: 0.353553
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 99648
+  - New Pareto front size: 825
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00511325 | Boundary Gap: 0.353553
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 127940
+  - New Pareto front size: 1029
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00321893 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 163037
+  - New Pareto front size: 1218
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00332142 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 196127
+  - New Pareto front size: 1398
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00587953 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 229706
+  - New Pareto front size: 1692
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00263843 | Boundary Gap: 0.353553
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 281706
+  - New Pareto front size: 1998
+  - Internal Hole: 0.0038341 | Boundary Gap: 0.353553
+
+> [Iteration 10 / 20]
+  - Aggregated local Pareto candidates: 343294
+  - New Pareto front size: 2399
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00224891 | Boundary Gap: 0.353553
+
+> [Iteration 11 / 20]
+  - Aggregated local Pareto candidates: 413338
+  - New Pareto front size: 2816
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00278726 | Boundary Gap: 0.353553
+
+> [Iteration 12 / 20]
+  - Aggregated local Pareto candidates: 491389
+  - New Pareto front size: 3381
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00200775 | Boundary Gap: 0.353553
+
+> [Iteration 13 / 20]
+  - Aggregated local Pareto candidates: 593291
+  - New Pareto front size: 4036
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00719367 | Boundary Gap: 0.353553
+
+> [Iteration 14 / 20]
+  - Aggregated local Pareto candidates: 711118
+  - New Pareto front size: 4729
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00813097 | Boundary Gap: 0.353553
+
+> [Iteration 15 / 20]
+  - Aggregated local Pareto candidates: 837690
+  - New Pareto front size: 5647
+> [Pareto cap] Front reached 5647 points (cap=5000). Stopping at iteration 15.
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=15 |PF|=5647 t=431.426s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 106 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 11033
+  - New Pareto front size: 263
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0326608 | Boundary Gap: 0.353558
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 34340
+  - New Pareto front size: 466
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00992695 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 65911
+  - New Pareto front size: 666
+  - Internal Hole: 0.0121694 | Boundary Gap: 0.353553
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 100494
+  - New Pareto front size: 834
+  - Internal Hole: 0.00379731 | Boundary Gap: 0.353553
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 129126
+  - New Pareto front size: 1058
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.018286 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 169509
+  - New Pareto front size: 1235
+  - Internal Hole: 0.022393 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 200087
+  - New Pareto front size: 1497
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0223891 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 246844
+  - New Pareto front size: 1786
+  - Internal Hole: 0.0223891 | Boundary Gap: 0.353553
+> [Convergence] Quality metrics stabilized. Stopping at iteration 8
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=16 |PF|=1786 t=65.1368s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 99 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 10322
+  - New Pareto front size: 259
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0682927 | Boundary Gap: 0.353554
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 33846
+  - New Pareto front size: 462
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0114741 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 65908
+  - New Pareto front size: 664
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00516314 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 99992
+  - New Pareto front size: 825
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00901959 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 126791
+  - New Pareto front size: 1025
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0082172 | Boundary Gap: 0.353554
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 163693
+  - New Pareto front size: 1250
+  - Internal Hole: 0.0138922 | Boundary Gap: 0.353554
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 202815
+  - New Pareto front size: 1417
+  - Internal Hole: 0.0191125 | Boundary Gap: 0.353554
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 233451
+  - New Pareto front size: 1661
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.019109 | Boundary Gap: 0.353554
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 276068
+  - New Pareto front size: 2022
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0075992 | Boundary Gap: 0.353554
+
+> [Iteration 10 / 20]
+  - Aggregated local Pareto candidates: 341135
+  - New Pareto front size: 2395
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00149263 | Boundary Gap: 0.353554
+
+> [Iteration 11 / 20]
+  - Aggregated local Pareto candidates: 410549
+  - New Pareto front size: 2874
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00176464 | Boundary Gap: 0.353553
+
+> [Iteration 12 / 20]
+  - Aggregated local Pareto candidates: 500020
+  - New Pareto front size: 3451
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0058142 | Boundary Gap: 0.353553
+
+> [Iteration 13 / 20]
+  - Aggregated local Pareto candidates: 603823
+  - New Pareto front size: 4065
+  - Internal Hole: 0.00149748 | Boundary Gap: 0.353553
+
+> [Iteration 14 / 20]
+  - Aggregated local Pareto candidates: 718758
+  - New Pareto front size: 4675
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00149739 | Boundary Gap: 0.353553
+
+> [Iteration 15 / 20]
+  - Aggregated local Pareto candidates: 830860
+  - New Pareto front size: 5528
+> [Pareto cap] Front reached 5528 points (cap=5000). Stopping at iteration 15.
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=17 |PF|=5528 t=436.328s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 98 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 10406
+  - New Pareto front size: 244
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0483419 | Boundary Gap: 0.353557
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 31951
+  - New Pareto front size: 461
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.015116 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 67034
+  - New Pareto front size: 649
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0279865 | Boundary Gap: 0.353553
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 97808
+  - New Pareto front size: 825
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00392199 | Boundary Gap: 0.353553
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 128237
+  - New Pareto front size: 1013
+  - Internal Hole: 0.00349267 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 162258
+  - New Pareto front size: 1215
+  - Internal Hole: 0.00906187 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 197976
+  - New Pareto front size: 1417
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0126186 | Boundary Gap: 0.353553
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 233682
+  - New Pareto front size: 1748
+  - Internal Hole: 0.00824869 | Boundary Gap: 0.353553
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 294392
+  - New Pareto front size: 1991
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00222547 | Boundary Gap: 0.353553
+
+> [Iteration 10 / 20]
+  - Aggregated local Pareto candidates: 338769
+  - New Pareto front size: 2360
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00206171 | Boundary Gap: 0.353553
+
+> [Iteration 11 / 20]
+  - Aggregated local Pareto candidates: 407689
+  - New Pareto front size: 2770
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00238614 | Boundary Gap: 0.353553
+
+> [Iteration 12 / 20]
+  - Aggregated local Pareto candidates: 480747
+  - New Pareto front size: 3350
+  - Internal Hole: 0.0015935 | Boundary Gap: 0.353553
+
+> [Iteration 13 / 20]
+  - Aggregated local Pareto candidates: 584427
+  - New Pareto front size: 3988
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0010073 | Boundary Gap: 0.353553
+
+> [Iteration 14 / 20]
+  - Aggregated local Pareto candidates: 700381
+  - New Pareto front size: 4754
+  - Internal Hole: 0.00146296 | Boundary Gap: 0.353553
+
+> [Iteration 15 / 20]
+  - Aggregated local Pareto candidates: 845366
+  - New Pareto front size: 5627
+> [Pareto cap] Front reached 5627 points (cap=5000). Stopping at iteration 15.
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=18 |PF|=5627 t=429.404s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 95 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 9981
+  - New Pareto front size: 237
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0195068 | Boundary Gap: 0.353555
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 31229
+  - New Pareto front size: 468
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0108664 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 66387
+  - New Pareto front size: 608
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0315985 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 90922
+  - New Pareto front size: 813
+  - Internal Hole: 0.0187686 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 126080
+  - New Pareto front size: 1022
+  - Internal Hole: 0.00552672 | Boundary Gap: 0.353553
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 161853
+  - New Pareto front size: 1211
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0106446 | Boundary Gap: 0.353553
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 195009
+  - New Pareto front size: 1431
+  - Internal Hole: 0.0106446 | Boundary Gap: 0.353553
+> [Convergence] Quality metrics stabilized. Stopping at iteration 7
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=19 |PF|=1431 t=44.8474s
+> Utopian promoted from initial Pareto front.
+> Initial Pareto front size: 109 points.
+> Optimization loop starting with zoom factor: 0.85
+
+> [Iteration 1 / 20]
+  - Aggregated local Pareto candidates: 11378
+  - New Pareto front size: 266
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.012258 | Boundary Gap: 0.353554
+
+> [Iteration 2 / 20]
+  - Aggregated local Pareto candidates: 35152
+  - New Pareto front size: 482
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.020173 | Boundary Gap: 0.353554
+
+> [Iteration 3 / 20]
+  - Aggregated local Pareto candidates: 68748
+  - New Pareto front size: 653
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00979645 | Boundary Gap: 0.353554
+
+> [Iteration 4 / 20]
+  - Aggregated local Pareto candidates: 97864
+  - New Pareto front size: 834
+  - Internal Hole: 0.00620545 | Boundary Gap: 0.353554
+
+> [Iteration 5 / 20]
+  - Aggregated local Pareto candidates: 129601
+  - New Pareto front size: 1040
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0123015 | Boundary Gap: 0.353554
+
+> [Iteration 6 / 20]
+  - Aggregated local Pareto candidates: 166000
+  - New Pareto front size: 1245
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00538329 | Boundary Gap: 0.353554
+
+> [Iteration 7 / 20]
+  - Aggregated local Pareto candidates: 200991
+  - New Pareto front size: 1476
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00376936 | Boundary Gap: 0.353554
+
+> [Iteration 8 / 20]
+  - Aggregated local Pareto candidates: 241840
+  - New Pareto front size: 1693
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00225774 | Boundary Gap: 0.353554
+
+> [Iteration 9 / 20]
+  - Aggregated local Pareto candidates: 285334
+  - New Pareto front size: 1951
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.0022351 | Boundary Gap: 0.353553
+
+> [Iteration 10 / 20]
+  - Aggregated local Pareto candidates: 333185
+  - New Pareto front size: 2341
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00400248 | Boundary Gap: 0.353553
+
+> [Iteration 11 / 20]
+  - Aggregated local Pareto candidates: 404217
+  - New Pareto front size: 2809
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.00140352 | Boundary Gap: 0.353553
+
+> [Iteration 12 / 20]
+  - Aggregated local Pareto candidates: 489885
+  - New Pareto front size: 3344
+  - Internal Hole: 0.001483 | Boundary Gap: 0.353553
+
+> [Iteration 13 / 20]
+  - Aggregated local Pareto candidates: 586271
+  - New Pareto front size: 3961
+  - Utopian promoted to better Pareto coordinate.
+  - Internal Hole: 0.000878074 | Boundary Gap: 0.353553
+
+> [Iteration 14 / 20]
+  - Aggregated local Pareto candidates: 700757
+  - New Pareto front size: 4752
+  - Internal Hole: 0.0130343 | Boundary Gap: 0.353553
+
+> [Iteration 15 / 20]
+  - Aggregated local Pareto candidates: 845085
+  - New Pareto front size: 5588
+> [Pareto cap] Front reached 5588 points (cap=5000). Stopping at iteration 15.
+
+> [Optimization Complete] Assembling final results...
+idc_mo_canonical seed=20 |PF|=5588 t=429.509s
+[OK] wrote "C:/Users/Artelnics/Desktop/experiments/Papers/Simposio_CEA_2026/rerun/results/yacht_mo_idc_fronts.csv"
+=== yacht MO : pymoo NSGA-II/NSGA-III/MOEA-D x21 ===
+[run] algo=nsga2 seed=42 budget=40000
+   n_pareto=100 HV=7.9004 IGD=nan feasible%=100.0 t=4.9s
+[run] algo=nsga2 seed=43 budget=40000
+   n_pareto=100 HV=7.9046 IGD=nan feasible%=100.0 t=5.7s
+[run] algo=nsga2 seed=44 budget=40000
+   n_pareto=100 HV=7.9003 IGD=nan feasible%=100.0 t=5.5s
+[run] algo=nsga2 seed=45 budget=40000
+   n_pareto=100 HV=7.8982 IGD=nan feasible%=100.0 t=4.9s
+[run] algo=nsga2 seed=46 budget=40000
+   n_pareto=100 HV=7.9014 IGD=nan feasible%=100.0 t=4.7s
+[run] algo=nsga2 seed=47 budget=40000
+   n_pareto=100 HV=7.9026 IGD=nan feasible%=100.0 t=5.9s
+[run] algo=nsga2 seed=48 budget=40000
+   n_pareto=100 HV=7.9034 IGD=nan feasible%=100.0 t=4.9s
+[run] algo=nsga2 seed=49 budget=40000
+   n_pareto=100 HV=7.9031 IGD=nan feasible%=100.0 t=4.8s
+[run] algo=nsga2 seed=50 budget=40000
+   n_pareto=100 HV=7.9031 IGD=nan feasible%=100.0 t=5.7s
+[run] algo=nsga2 seed=51 budget=40000
+   n_pareto=100 HV=7.9015 IGD=nan feasible%=100.0 t=5.4s
+[run] algo=nsga2 seed=52 budget=40000
+   n_pareto=100 HV=7.9015 IGD=nan feasible%=100.0 t=5.5s
+[run] algo=nsga3 seed=42 budget=40000
+   n_pareto=11 HV=7.5568 IGD=nan feasible%=100.0 t=5.9s
+[run] algo=nsga3 seed=43 budget=40000
+   n_pareto=11 HV=7.5575 IGD=nan feasible%=100.0 t=6.2s
+[run] algo=nsga3 seed=44 budget=40000
+   n_pareto=11 HV=7.5511 IGD=nan feasible%=100.0 t=6.4s
+[run] algo=nsga3 seed=45 budget=40000
+   n_pareto=11 HV=7.5489 IGD=nan feasible%=100.0 t=6.0s
+[run] algo=nsga3 seed=46 budget=40000
+   n_pareto=11 HV=7.9768 IGD=nan feasible%=100.0 t=6.3s
+[run] algo=nsga3 seed=47 budget=40000
+   n_pareto=11 HV=7.5509 IGD=nan feasible%=100.0 t=5.9s
+[run] algo=nsga3 seed=48 budget=40000
+   n_pareto=11 HV=7.5488 IGD=nan feasible%=100.0 t=6.0s
+[run] algo=nsga3 seed=49 budget=40000
+   n_pareto=11 HV=7.5687 IGD=nan feasible%=100.0 t=6.5s
+[run] algo=nsga3 seed=50 budget=40000
+   n_pareto=11 HV=7.5495 IGD=nan feasible%=100.0 t=6.2s
+[run] algo=nsga3 seed=51 budget=40000
+   n_pareto=11 HV=7.5488 IGD=nan feasible%=100.0 t=6.4s
+[run] algo=nsga3 seed=52 budget=40000
+   n_pareto=11 HV=7.5489 IGD=nan feasible%=100.0 t=6.1s
+[run] algo=moead seed=42 budget=40000
+   n_pareto=11 HV=4.1035 IGD=nan feasible%=100.0 t=44.9s
+[run] algo=moead seed=43 budget=40000
+   n_pareto=11 HV=3.8389 IGD=nan feasible%=100.0 t=45.5s
+[run] algo=moead seed=44 budget=40000
+   n_pareto=11 HV=3.8997 IGD=nan feasible%=100.0 t=43.6s
+[run] algo=moead seed=45 budget=40000
+   n_pareto=11 HV=4.0725 IGD=nan feasible%=100.0 t=44.3s
+[run] algo=moead seed=46 budget=40000
+   n_pareto=11 HV=3.8392 IGD=nan feasible%=100.0 t=44.1s
+[run] algo=moead seed=47 budget=40000
+   n_pareto=11 HV=3.9396 IGD=nan feasible%=100.0 t=44.9s
+[run] algo=moead seed=48 budget=40000
+   n_pareto=11 HV=3.8389 IGD=nan feasible%=100.0 t=43.6s
+[run] algo=moead seed=49 budget=40000
+   n_pareto=11 HV=3.9879 IGD=nan feasible%=100.0 t=45.0s
+[run] algo=moead seed=50 budget=40000
+   n_pareto=11 HV=3.8390 IGD=nan feasible%=100.0 t=46.4s
+[run] algo=moead seed=51 budget=40000
+   n_pareto=11 HV=3.8451 IGD=nan feasible%=100.0 t=45.5s
+[run] algo=moead seed=52 budget=40000
+   n_pareto=11 HV=4.0067 IGD=nan feasible%=100.0 t=46.8s
+[OK] wrote 33 MO row(s) to C:\Users\Artelnics\Desktop\experiments\Papers\Simposio_CEA_2026\rerun\results\yacht_mo_pymoo.csv
+[OK] wrote 1342 pareto point(s) to C:\Users\Artelnics\Desktop\experiments\Papers\Simposio_CEA_2026\rerun\results\yacht_mo_pymoo_fronts.csv
+=== MO yacht sweep DONE ===

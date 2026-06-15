@@ -1,0 +1,32 @@
+schema_version: 1
+dataset: "Olympus -- photo wf3"
+description: "4-element simplex inputs (sum to 1); 1 measurement target(s); Bounds from data/config.json."
+
+inputs:
+  - name: mat_1
+    type: continuous
+    bounds: [0.0, 1.0]
+  - name: mat_2
+    type: continuous
+    bounds: [0.0, 1.0]
+  - name: mat_3
+    type: continuous
+    bounds: [0.0, 1.0]
+  - name: mat_4
+    type: continuous
+    bounds: [0.0, 1.0]
+
+outputs:
+  - name: degradation
+    goal: minimize
+
+formula_constraints:
+  - name: simplex_solvents
+    expr: "mat_1 + mat_2 + mat_3 + mat_4"
+    shape: affine
+    scope: inputs
+    relation: "=="
+    value: 1.0
+    tolerance: 1.0e-6
+    required: true
+    notes: "Solvent material fractions must sum to 1 (simplex)."

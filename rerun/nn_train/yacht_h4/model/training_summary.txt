@@ -1,0 +1,21 @@
+Dataset:           yacht_hydrodynamics
+CSV file:          yacht.csv
+CSV separator:     ','
+CSV header:        yes
+Samples:           308  (60/20/20 random split)
+Inputs (features): 6
+Targets:           1
+
+Growing Neurons:   [1, 10]  step 1,  5 trials per size
+Optimal neurons:   4
+
+Training MSE:      0.615790    R^2: 0.994963
+Validation MSE:    2.508769
+Testing MSE:       0.632629    R^2: 0.993497
+
+Network:           ApproximationNetwork (input -> 1 hidden Dense -> output)
+Loss / optimizer:  MeanSquaredError + QuasiNewtonMethod (OpenNN defaults)
+Bounding layer:    NoBounding
+Scaling:           default per-feature
+Missing values:    mean imputation
+Wall time:         84.029264 s

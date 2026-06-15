@@ -1,0 +1,124 @@
+{
+  "NeuralNetwork": {
+    "Inputs": {
+      "InputsNumber": "6",
+      "Input": [
+        {
+          "Index": "1",
+          "Text": "long_pos_cob"
+        },
+        {
+          "Index": "2",
+          "Text": "prismatic_coef"
+        },
+        {
+          "Index": "3",
+          "Text": "length_displacement"
+        },
+        {
+          "Index": "4",
+          "Text": "beam_draught"
+        },
+        {
+          "Index": "5",
+          "Text": "length_beam"
+        },
+        {
+          "Index": "6",
+          "Text": "froude"
+        }
+      ]
+    },
+    "Layers": {
+      "LayersNumber": "5",
+      "Items": [
+        {
+          "Scaling": {
+            "Label": "scaling_layer",
+            "InputDimensions": "6 ",
+            "OutputDimensions": "6 ",
+            "Means": "-2.38182 0.564136 4.78864 3.93682 3.20682 0.2875 ",
+            "StandardDeviations": "1.51322 0.02329 0.253057 0.548193 0.247998 0.100942 ",
+            "Minimums": "-5 0.53 4.34 2.81 2.73 0.125 ",
+            "Maximums": "0 0.6 5.14 5.35 3.64 0.45 ",
+            "Scalers": "MeanStandardDeviation MeanStandardDeviation MeanStandardDeviation MeanStandardDeviation MeanStandardDeviation MeanStandardDeviation",
+            "MinRange": "-1.000000",
+            "MaxRange": "1.000000"
+          }
+        },
+        {
+          "Dense": {
+            "Label": "dense2d_layer_1",
+            "InputDimensions": "6 ",
+            "OutputDimensions": "4 ",
+            "Activation": "Tanh"
+          }
+        },
+        {
+          "Dense": {
+            "Label": "approximation_layer",
+            "InputDimensions": "4 ",
+            "OutputDimensions": "1 ",
+            "Activation": "Identity"
+          }
+        },
+        {
+          "Unscaling": {
+            "Label": "unscaling_layer",
+            "InputDimensions": "1 ",
+            "OutputDimensions": "1 ",
+            "MinRange": "-1.000000",
+            "MaxRange": "1.000000",
+            "Neurons": [
+              {
+                "Descriptives": "0.01000022888 62.41999817 10.49535751 15.16049004",
+                "Scaler": "MeanStandardDeviation"
+              }
+            ]
+          }
+        },
+        {
+          "Bounding": {
+            "Label": "bounding_layer",
+            "InputDimensions": "1 ",
+            "OutputDimensions": "1 ",
+            "BoundingMethod": "NoBounding"
+          }
+        }
+      ],
+      "SourceLayers": {
+        "SourceLayer": [
+          {
+            "LayerIndex": "0",
+            "Text": "-1"
+          },
+          {
+            "LayerIndex": "1",
+            "Text": "0"
+          },
+          {
+            "LayerIndex": "2",
+            "Text": "1"
+          },
+          {
+            "LayerIndex": "3",
+            "Text": "2"
+          },
+          {
+            "LayerIndex": "4",
+            "Text": "3"
+          }
+        ]
+      }
+    },
+    "Outputs": {
+      "OutputsNumber": "1",
+      "Output": [
+        {
+          "Index": "1",
+          "Text": "resistance"
+        }
+      ]
+    }
+  }
+}

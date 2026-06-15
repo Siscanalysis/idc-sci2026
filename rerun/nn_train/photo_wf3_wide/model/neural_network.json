@@ -1,0 +1,116 @@
+{
+  "NeuralNetwork": {
+    "Inputs": {
+      "InputsNumber": "4",
+      "Input": [
+        {
+          "Index": "1",
+          "Text": "mat_1"
+        },
+        {
+          "Index": "2",
+          "Text": "mat_2"
+        },
+        {
+          "Index": "3",
+          "Text": "mat_3"
+        },
+        {
+          "Index": "4",
+          "Text": "mat_4"
+        }
+      ]
+    },
+    "Layers": {
+      "LayersNumber": "5",
+      "Items": [
+        {
+          "Scaling": {
+            "Label": "scaling_layer",
+            "InputDimensions": "4 ",
+            "OutputDimensions": "4 ",
+            "Means": "0.249577 0.24575 0.253481 0.251192 ",
+            "StandardDeviations": "0.197744 0.198414 0.200976 0.197691 ",
+            "Minimums": "-1.49012e-08 0 0 0 ",
+            "Maximums": "1 1 0.9 1 ",
+            "Scalers": "MeanStandardDeviation MeanStandardDeviation MeanStandardDeviation MeanStandardDeviation",
+            "MinRange": "-1.000000",
+            "MaxRange": "1.000000"
+          }
+        },
+        {
+          "Dense": {
+            "Label": "dense2d_layer_1",
+            "InputDimensions": "4 ",
+            "OutputDimensions": "1 ",
+            "Activation": "Tanh"
+          }
+        },
+        {
+          "Dense": {
+            "Label": "approximation_layer",
+            "InputDimensions": "1 ",
+            "OutputDimensions": "1 ",
+            "Activation": "Identity"
+          }
+        },
+        {
+          "Unscaling": {
+            "Label": "unscaling_layer",
+            "InputDimensions": "1 ",
+            "OutputDimensions": "1 ",
+            "MinRange": "-1.000000",
+            "MaxRange": "1.000000",
+            "Neurons": [
+              {
+                "Descriptives": "0.004446953535 0.7430701852 0.1904388666 0.1094733328",
+                "Scaler": "MeanStandardDeviation"
+              }
+            ]
+          }
+        },
+        {
+          "Bounding": {
+            "Label": "bounding_layer",
+            "InputDimensions": "1 ",
+            "OutputDimensions": "1 ",
+            "BoundingMethod": "NoBounding"
+          }
+        }
+      ],
+      "SourceLayers": {
+        "SourceLayer": [
+          {
+            "LayerIndex": "0",
+            "Text": "-1"
+          },
+          {
+            "LayerIndex": "1",
+            "Text": "0"
+          },
+          {
+            "LayerIndex": "2",
+            "Text": "1"
+          },
+          {
+            "LayerIndex": "3",
+            "Text": "2"
+          },
+          {
+            "LayerIndex": "4",
+            "Text": "3"
+          }
+        ]
+      }
+    },
+    "Outputs": {
+      "OutputsNumber": "1",
+      "Output": [
+        {
+          "Index": "1",
+          "Text": "degradation"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2 @@
+algorithm,problem,seed,best_f,feasible,max_violation,evals,walltime_s,notes,x_0,x_1,x_2,x_3
+cmaes,photo_wf3,42,-0.03697334724287191,False,0.009798933114905317,37,0.05847800000628922,no feasible point found across full history,0.04577452114697844,0.590585197456556,0.006779880074360854,0.3470614682071994

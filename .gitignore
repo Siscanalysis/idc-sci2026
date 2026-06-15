@@ -1,0 +1,48 @@
+# =============================================================================
+#  idc-sci2026 — reproduction repository for the SCI 2026 paper
+# =============================================================================
+
+# --- Build artifacts (CMake / Visual Studio) --------------------------------
+rerun/build/
+**/CMakeFiles/
+*.obj
+*.o
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.pdb
+
+# --- Python environments and caches -----------------------------------------
+.venv-paper/
+.venv-bsm2/
+.venv*/
+__pycache__/
+*.pyc
+
+# --- LaTeX auxiliary files (keep .tex/.bib/.pdf, drop the rest) --------------
+paper/**/*.aux
+paper/**/*.log
+paper/**/*.bbl
+paper/**/*.blg
+paper/**/*.fls
+paper/**/*.fdb_latexmk
+paper/**/*.synctex.gz
+paper/**/*.out
+paper/**/*.spl
+paper/**/*.toc
+paper/**/_*.log
+Figuras/*.aux
+Figuras/*.log
+
+# --- Internal material, not for publication ---------------------------------
+reviews/
+bsm2/
+NOTES.md
+Plantilla_para_actas_Simposios_CEA_de_Control_Inteligente__SCI__version_2023/
+g_suite_results.csv
+
+# --- OS clutter --------------------------------------------------------------
+.DS_Store
+Thumbs.db

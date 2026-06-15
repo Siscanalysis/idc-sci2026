@@ -1,0 +1,51 @@
+# Olympus photo_wf3 (Häse et al. 2021) — real lab campaign.
+# Auto-generated 2026-05-21.
+
+problem:
+  name: photo_wf3
+  type: single_objective
+  source: "Häse, F., Aldeghi, M., Hickman, R. J., Roch, L. M., & Aspuru-Guzik, A. (2021). Olympus: a benchmarking framework for noisy optimization and experiment planning. arXiv:2010.04153."
+
+dataset:
+  type: real_csv
+  path: "C:/Users/Artelnics/Desktop/benchmark_datasets/so_realdata/P_olympus_campaigns/olympus_photo_wf3/data/data.csv"
+  target_column: degradation
+  n_samples: 1040
+
+inputs:
+  - { name: mat_1             , bounds: [0.0, 1.0] }
+  - { name: mat_2             , bounds: [0.0, 1.0] }
+  - { name: mat_3             , bounds: [0.0, 1.0] }
+  - { name: mat_4             , bounds: [0.0, 1.0] }
+
+constraints:
+  - name: simplex
+    type: linear_inequality
+    coefficients: { mat_1: 1.0, mat_2: 1.0, mat_3: 1.0, mat_4: 1.0 }
+    lower: 1.0
+    upper: 1.0
+  - name: donor_band
+    type: linear_inequality
+    coefficients: { mat_1: 1.0, mat_2: 1.0 }
+    lower: 0.4
+    upper: 0.6
+    # functional donor:acceptor window (~1:1 charge-transfer balance):
+    # donor total = WF3(mat_1)+P3HT(mat_2); simplex makes acceptor = 1-donor.
+    # Ensures the optimum is a real bulk-heterojunction (both phases percolating).
+
+objective:
+  variable: degradation
+  direction: minimize
+
+known_optimum:
+  f_star: 0.004446956
+  source: "Min observed degradation in the 1040-sample Olympus photo_wf3 campaign."
+
+budget:
+  total_nn_evaluations: 20000
+  idc_per_iteration: 2000
+  idc_max_iterations: 10
+
+seeds:
+  count: 21
+  base: 42

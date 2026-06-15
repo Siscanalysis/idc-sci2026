@@ -1,0 +1,21 @@
+Dataset:           photo_wf3_h8
+CSV file:          data.csv
+CSV separator:     ','
+CSV header:        no
+Samples:           1040  (60/20/20 random split)
+Inputs (features): 4
+Targets:           1
+
+Architecture:      fixed hidden=8 depth=1
+Optimal neurons:   8
+
+Training MSE:      0.001301    R^2: 0.781276
+Validation MSE:    4.772037
+Testing MSE:       0.001151    R^2: 0.802722
+
+Network:           ApproximationNetwork (input -> 1 hidden Dense -> output)
+Loss / optimizer:  MeanSquaredError + QuasiNewtonMethod (OpenNN defaults)
+Bounding layer:    NoBounding
+Scaling:           default per-feature
+Missing values:    mean imputation
+Wall time:         2.160671 s

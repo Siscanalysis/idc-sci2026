@@ -1,0 +1,21 @@
+Dataset:           photo_wf3_wide
+CSV file:          data.csv
+CSV separator:     ','
+CSV header:        no
+Samples:           1040  (60/20/20 random split)
+Inputs (features): 4
+Targets:           1
+
+Growing Neurons:   [1, 50]  step 3,  6 trials per size
+Optimal neurons:   1
+
+Training MSE:      0.005270    R^2: 0.109551
+Validation MSE:    0.568814
+Testing MSE:       0.005228    R^2: 0.104309
+
+Network:           ApproximationNetwork (input -> 1 hidden Dense -> output)
+Loss / optimizer:  MeanSquaredError + QuasiNewtonMethod (OpenNN defaults)
+Bounding layer:    NoBounding
+Scaling:           default per-feature
+Missing values:    mean imputation
+Wall time:         838.357794 s
